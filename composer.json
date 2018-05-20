@@ -8,7 +8,7 @@
             "homepage" : "https://www.taluo.ren",
             "role": "Developer"
         }
-    ]
+    ],
     "require": {
         "php": ">=5.3.0"
     }
